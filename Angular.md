@@ -83,5 +83,7 @@
                 </tr>
 
 5.  **What are the building blocks in angular?**
+
     > The main building blocks for Angular are **_modules, components, templates, metadata, data binding, directives, services, and dependency injection_**.
+
 6.  **Difference between sessionStorage and localStorage**
